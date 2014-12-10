@@ -1,6 +1,9 @@
 Reproducible Research: Peer Assessment 1
 ==================================================
 
+*Notice: Before processing this R markdown file with the knit2html() function in R (from the knitr package), you should specify the encoding as "UTF-8":
+knit2html(input = "PA1_template.Rmd", encoding = "UTF-8")*
+
 ## Set global options and unzip datafile
 ```{r environment}
 library(knitr)
